@@ -19,12 +19,8 @@ class LaravelRainServiceProvider extends ServiceProvider {
 	 */
 	public function register()
 	{
-		//
-	}
-
-	public function boot()
-	{
 		$app = $this->app;
+		
 		$app->resolving('view', function($view) use ($app)
 		{
 			Tpl::configure(array(
