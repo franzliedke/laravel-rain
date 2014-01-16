@@ -1,6 +1,6 @@
 {
     "name": "franzl/laravel-rain",
-    "description": "",
+    "description": "The RainTPL template engine for Laravel.",
     "authors": [
         {
             "name": "Franz Liedke",
