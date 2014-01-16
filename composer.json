@@ -2,6 +2,7 @@
     "name": "franzl/laravel-rain",
     "description": "The RainTPL template engine for Laravel.",
     "keywords": ["view", "template", "laravel"],
+    "license": "MIT",
     "authors": [
         {
             "name": "Franz Liedke",
